@@ -1,0 +1,5 @@
+Assignment #11 (class assignment) – Interpolation in Python
+
+Using a proper Python library, develop an interpolation model for the example 1 presented in the regression lecture.
+
+Plot and compare the results.

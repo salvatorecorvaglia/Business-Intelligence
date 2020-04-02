@@ -1,0 +1,3 @@
+Assignment #19
+
+Express the product mix model studied today in DoCplex and solve it.

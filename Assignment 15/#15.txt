@@ -1,0 +1,8 @@
+(Class) assignment # 15
+
+A call center receives 200 calls per hour during
+peak time. Seven minutes are required on
+average to service a request. Determine the
+minimum number of workers needed to
+guarantee an expected queueing time of 1
+minute.

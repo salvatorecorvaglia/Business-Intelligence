@@ -1,0 +1,4 @@
+A NC machine receives parts at a rate of 20 per hour.
+The expected service time is 2 minutes
+The machine buffer has a capacity equal to 3.
+Compute the KPIs of the system

@@ -1,0 +1,7 @@
+Assignment #20
+
+Suppose that - in the product mix problem  of assignment #19 - workers can be moved from one department to another.
+
+Model the new problem and solve it with DoCplex.
+
+Does the profit increases? What is the best allocation of workers between the two departments? What is the new optimal product mix?

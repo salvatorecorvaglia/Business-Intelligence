@@ -1,0 +1,16 @@
+Develop significant associative rules for the following dataset by using a Python code from the sci-kit learn package.
+
+Chose supp = 0.2 and conf = 0.6.
+
+> dataset
+   A B C D E
+1  1 0 1 0 0
+2  1 1 0 1 0
+3  0 1 0 1 0
+4  0 1 0 1 0
+5  1 1 1 0 0
+6  0 1 1 0 0
+7  1 0 1 0 0
+8  1 1 0 0 1
+9  1 1 1 0 1
+10 1 0 0 0 1
